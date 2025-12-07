@@ -1,0 +1,16 @@
+[
+  {
+    "id": "330b5661-43d9-4f35-b49b-7a66148d8f0a",
+    "rfp_id": null,
+    "vendor_id": "a31543cc-9227-4e60-b78e-7684fc46ffd2",
+    "raw_email": "We can supply for $45000. Delivery 25 days. Warranty 12 months.",
+    "parsed": {
+      "total_price": 45000.0,
+      "delivery_days": 25,
+      "warranty_months": 12,
+      "notes": "We can supply for $45000. Delivery 25 days. Warranty 12 months."
+    },
+    "score": null,
+    "recommendation": null
+  }
+]

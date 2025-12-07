@@ -1,0 +1,10 @@
+[
+  {
+    "id": "004f7679-3a4a-4d31-8fc1-0a4efdcb595e",
+    "rfp_id": "88a3ca07-f6ff-4530-b5cf-3c3d388937a8",
+    "vendor_id": "a31543cc-9227-4e60-b78e-7684fc46ffd2",
+    "vendor_email": "sales@acme.example",
+    "subject": "RFP: I need 20 laptops (16GB RAM) and 15 monitors 27-inch. Budget $50,000. Delivery w [RFPID:88a3ca07-f6ff-4530-b5cf-3c3d388937a8]",
+    "body": "I need 20 laptops (16GB RAM) and 15 monitors 27-inch. Budget $50,000. Delivery within 30 days. Payment net 30. Warranty 12 months."
+  }
+]

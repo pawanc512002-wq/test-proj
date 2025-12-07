@@ -1,0 +1,95 @@
+[
+  {
+    "id": "88a3ca07-f6ff-4530-b5cf-3c3d388937a8",
+    "title": "I need 20 laptops (16GB RAM) and 15 monitors 27-inch. Budget $50,000. Delivery w",
+    "description": "I need 20 laptops (16GB RAM) and 15 monitors 27-inch. Budget $50,000. Delivery within 30 days. Payment net 30. Warranty 12 months.",
+    "items": [
+      {
+        "name": "laptop",
+        "qty": 20,
+        "specs": {
+          "ram": "16GB"
+        }
+      },
+      {
+        "name": "monitor",
+        "qty": 15,
+        "specs": {
+          "size": "27-inch"
+        }
+      }
+    ],
+    "budget": 50000.0,
+    "delivery_days": 30,
+    "payment_terms": "net 30",
+    "warranty_months": 12
+  },
+  {
+    "id": "ffb9f144-c68d-4f6f-b767-845f80b6f96a",
+    "title": "I need 15 monitors 27-inch. Budget $50,000. Delivery within 20 days. Payment net",
+    "description": "I need 15 monitors 27-inch. Budget $50,000. Delivery within 20 days. Payment net 30. Warranty 12 months.",
+    "items": [
+      {
+        "name": "monitor",
+        "qty": 15,
+        "specs": {
+          "size": "27-inch"
+        }
+      }
+    ],
+    "budget": 50000.0,
+    "delivery_days": 20,
+    "payment_terms": "net 30",
+    "warranty_months": 12
+  },
+  {
+    "id": "c398db54-3c03-4931-a59e-36dc0da7839f",
+    "title": "I need 20 laptops (16GB RAM) and 15 27-inch monitors. Budget $50,000. Delivery w",
+    "description": "I need 20 laptops (16GB RAM) and 15 27-inch monitors. Budget $50,000. Delivery within 30 days. Payment net 30. Warranty 12 months.",
+    "items": [
+      {
+        "name": "laptop",
+        "qty": 20,
+        "specs": {
+          "ram": "16GB"
+        }
+      },
+      {
+        "name": "monitor",
+        "qty": null,
+        "specs": {
+          "size": "27-inch"
+        }
+      }
+    ],
+    "budget": 50000.0,
+    "delivery_days": 30,
+    "payment_terms": "net 30",
+    "warranty_months": 12
+  },
+  {
+    "id": "8a84d0ae-9a6b-4f72-bf3d-0699d70ff1b3",
+    "title": "I need 20 laptops (16GB RAM) and 15 27-inch monitors. Budget $50,000. Delivery w",
+    "description": "I need 20 laptops (16GB RAM) and 15 27-inch monitors. Budget $50,000. Delivery within 30 days. Payment net 30. Warranty 12 months.",
+    "items": [
+      {
+        "name": "laptop",
+        "qty": 20,
+        "specs": {
+          "ram": "16GB"
+        }
+      },
+      {
+        "name": "monitor",
+        "qty": null,
+        "specs": {
+          "size": "27-inch"
+        }
+      }
+    ],
+    "budget": 50000.0,
+    "delivery_days": 30,
+    "payment_terms": "net 30",
+    "warranty_months": 12
+  }
+]
